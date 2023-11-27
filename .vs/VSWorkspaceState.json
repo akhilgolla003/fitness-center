@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FitnessCenter",
+    "\\FitnessCenter\\FitnessCenterManagement",
+    "\\FitnessCenter\\FitnessCenterManagement\\Views",
+    "\\FitnessCenter\\FitnessCenterManagement\\Views\\Home"
+  ],
+  "SelectedNode": "\\FitnessCenter\\FitnessCenterManagement\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
